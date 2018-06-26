@@ -1,0 +1,40 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 110%;
+    color: #000;
+}
+
+#header {
+    background-color: #000;
+    height: 50px;
+    color: #fff;
+}
+
+#banner {
+    background-color: lightblue;
+    height: 324px;
+}
+
+#main-content {
+    height: 352px;
+}
+
+#footer {
+    background-color: #ECECEC;
+    height: 57px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: lightgray;
+}
