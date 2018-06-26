@@ -34,7 +34,22 @@ body {
 }
 
 .container {
-    width: 1000px;
+    width: 980px;
     margin: 0 auto;
+    padding: 0 10px;
     background-color: lightgray;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }

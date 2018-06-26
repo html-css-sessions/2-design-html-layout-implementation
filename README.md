@@ -19,4 +19,14 @@ Identify the sections in layout.
 
 
 
+# google font implementation
 
+https://fonts.google.com/
+
+Search font and add it.
+
+Select customize for different font weights to include.
+
+In Embedd section copy the font link.
+
+There are two ways to use the font url Standard and embed.
