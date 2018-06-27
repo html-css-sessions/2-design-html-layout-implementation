@@ -21,11 +21,20 @@ body {
 
 #banner {
     background-color: lightblue;
-    height: 324px;
+    overflow: hidden;
+}
+
+.responsive-img {
+    width: 100%;
+    height: auto;
 }
 
 #main-content {
     height: 352px;
+}
+
+.logo {
+    width: 87px;
 }
 
 #footer {
@@ -37,7 +46,6 @@ body {
     width: 980px;
     margin: 0 auto;
     padding: 0 10px;
-    background-color: lightgray;
 }
 
 .float-left {
